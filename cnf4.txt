@@ -1,0 +1,13 @@
+S -> NP VP
+S -> VP
+NP -> N
+NP -> D N
+NP -> NP NP
+VP -> V NP
+VP -> V PP
+PP -> P NP
+V -> flies
+N -> arrow
+N -> time
+P -> like
+D -> an

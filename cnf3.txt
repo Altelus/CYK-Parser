@@ -1,0 +1,8 @@
+S -> N VP
+VN -> N N
+VP -> V N
+N -> students
+N -> jeff
+N -> geometry
+N -> trains
+V -> trains

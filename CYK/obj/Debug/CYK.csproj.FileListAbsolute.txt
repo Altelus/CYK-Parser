@@ -1,0 +1,12 @@
+d:\users\altelus\documents\visual studio 2013\Projects\CYK\CYK\bin\Debug\CYK.exe.config
+D:\Users\Altelus\Documents\Visual Studio 2013\Projects\CYK\CYK\bin\Debug\CYK.exe
+D:\Users\Altelus\Documents\Visual Studio 2013\Projects\CYK\CYK\bin\Debug\CYK.pdb
+D:\Users\Altelus\Documents\Visual Studio 2013\Projects\CYK\CYK\obj\Debug\CYK.csprojResolveAssemblyReference.cache
+D:\Users\Altelus\Documents\Visual Studio 2013\Projects\CYK\CYK\obj\Debug\CYK.exe
+D:\Users\Altelus\Documents\Visual Studio 2013\Projects\CYK\CYK\obj\Debug\CYK.pdb
+D:\Users\Altelus\Desktop\New folder\UOIT\AI\CYK\CYK\bin\Debug\CYK.exe.config
+D:\Users\Altelus\Desktop\New folder\UOIT\AI\CYK\CYK\obj\Debug\CYK.exe
+D:\Users\Altelus\Desktop\New folder\UOIT\AI\CYK\CYK\obj\Debug\CYK.pdb
+D:\Users\Altelus\Desktop\New folder\UOIT\AI\CYK\CYK\bin\Debug\CYK.exe
+D:\Users\Altelus\Desktop\New folder\UOIT\AI\CYK\CYK\bin\Debug\CYK.pdb
+D:\Users\Altelus\Desktop\New folder\UOIT\AI\CYK\CYK\obj\Debug\CYK.csprojResolveAssemblyReference.cache
